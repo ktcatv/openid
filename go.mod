@@ -6,6 +6,7 @@ require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/emicklei/go-restful v2.15.1-0.20220703112237-d9c71e118c95+incompatible
 	github.com/go-chassis/foundation v0.3.0
+	github.com/go-chassis/go-archaius v1.5.1
 	github.com/go-chassis/go-chassis/v2 v2.5.2
 	github.com/go-chassis/openlog v1.1.2
 )
@@ -15,7 +16,6 @@ require (
 	github.com/cenkalti/backoff v2.0.0+incompatible // indirect
 	github.com/fsnotify/fsnotify v1.4.7 // indirect
 	github.com/go-chassis/cari v0.5.1-0.20210823023004-74041d1363c4 // indirect
-	github.com/go-chassis/go-archaius v1.5.1 // indirect
 	github.com/go-chassis/go-restful-swagger20 v1.0.4-0.20220704025524-9243cbee26b7 // indirect
 	github.com/golang-jwt/jwt v3.2.1+incompatible // indirect
 	github.com/golang/protobuf v1.4.2 // indirect
